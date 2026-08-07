@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1001",
+        "name": "Khadiza",
+        "subject": "biology",
+        "department": "zoology"
+    },
+    {
+        "id": "112",
+        "name": "Arif",
+        "subject": "BANGLA",
+        "department": "enter department"
+    },
+    {
+        "id": "122",
+        "name": "Amin",
+        "subject": "Math",
+        "department": "enter department"
+    },
+    {
+        "id": "126",
+        "name": "Salam",
+        "subject": "Histry",
+        "department": "Arts"
+    },
+    {
+        "id": "2222",
+        "name": "eee",
+        "subject": "re",
+        "department": "rew"
+    }
+]

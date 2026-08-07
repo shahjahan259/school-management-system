@@ -1,0 +1,14 @@
+[
+    {
+        "student_id": "1001",
+        "month": "Augst",
+        "amount": "1500",
+        "status": "paid"
+    },
+    {
+        "student_id": "1002",
+        "month": "Augus",
+        "amount": "1500",
+        "status": "paid"
+    }
+]
