@@ -16,6 +16,13 @@ This is a School Management System built with Python.
 ```bash
 python main.py
 ```
+
+## Technologies Used
+- python
+- json
+- Git
+- GitHub
+
 ## Author
 
 Shahjahan
