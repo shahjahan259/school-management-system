@@ -1,0 +1,8 @@
+gitignore
+_pycache_/
+*.pvc
+
+.venv/
+venv/
+.env
+.vscode
