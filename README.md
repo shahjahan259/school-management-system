@@ -30,5 +30,5 @@ Shahjahan
 
 ## Project screen shot
 
-![school management system](screen shots/main-menu.png)
+![school management system](screenshots/main-menu.png)
 
