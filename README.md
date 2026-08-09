@@ -4,6 +4,7 @@
 This is a School Management System built with Python.
 
 ## Features
+
 - Student Management
 - Teacher Management
 - Attendance
@@ -26,3 +27,8 @@ python main.py
 ## Author
 
 Shahjahan
+
+## Project screen shot
+
+![school management system](screen shots/main-menu.png)
+
